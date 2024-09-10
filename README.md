@@ -1,7 +1,7 @@
 <H3>NAME: Harini M D</H3>
 <H3>REGISTER NO: 212222230043</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE: 11/03/2024</H3>
+<H3>DATE: </H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim:
